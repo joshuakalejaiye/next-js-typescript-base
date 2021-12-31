@@ -21,10 +21,23 @@ module.exports = {
       2,
       { extensions: [".js", ".jsx", ".ts", ".tsx"] },
     ],
+    "react/function-component-definition": [
+      2,
+      {
+        namedComponents: "arrow-function",
+        unnamedComponents: "arrow-function",
+      },
+    ],
+    "import/extensions": "off",
   },
   settings: {
     react: {
       version: "latest",
+    },
+    "import/resolver": {
+      node: {
+        extensions: [".js", ".jsx", ".ts", ".tsx"],
+      },
     },
   },
 };
