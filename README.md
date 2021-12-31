@@ -1,4 +1,4 @@
-Next.js base with modified airbnb eslint, husky precommit, prettier, typescript etc.
+### Next.js Base with modified Airbnb Eslint, Husky Precommit, Prettier configured, Typescript etc.
 ## Getting Started
 
 First, run the development server:
