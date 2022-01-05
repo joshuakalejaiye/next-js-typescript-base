@@ -29,6 +29,8 @@ module.exports = {
       },
     ],
     "import/extensions": "off",
+    "react/jsx-props-no-spreading": "off",
+    semi: "off",
   },
   settings: {
     react: {
