@@ -1,5 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+### Next.js Base with modified Airbnb Eslint, Husky Precommit, Prettier configured, Typescript etc.
 ## Getting Started
 
 First, run the development server:
