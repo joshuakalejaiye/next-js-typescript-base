@@ -18,6 +18,7 @@ module.exports = {
     "comma-dangle": "off",
     "react/self-closing-comp": "off",
     "react/react-in-jsx-scope": "off",
+    "import/prefer-default-export": "off",
     "require-jsdoc": "off",
     "react/jsx-filename-extension": [
       2,
